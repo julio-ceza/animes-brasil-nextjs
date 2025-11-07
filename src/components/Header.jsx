@@ -13,7 +13,7 @@ export default function Header() {
     <>
       <HeaderContainer>
         <HeaderContent>
-          <Logo href="/">Animers</Logo>
+          <Logo href="/">Animmers</Logo>
 
           <Nav>
             <NavLink href="/">Home</NavLink>
